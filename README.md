@@ -1,14 +1,14 @@
-sdb
+**sdb**
 
 A native x64 Linux debugger implemented in C++, following Building a Debugger by Sy Brand.
 
-About
+**About**
 
 This repository tracks my progress as I work through the book, learning about debugger internals, Linux system programming, and C++ development.
 
 The goal is to build a debugger incrementally, understanding the underlying concepts and implementation details rather than simply reproducing the code.
 
-Development Environment
+**Development Environment**
 Language: C++
 Platform: Linux (Ubuntu on WSL)
 Build system: CMake
@@ -16,13 +16,13 @@ Version control: Git
 
 Additional dependencies and tools will be documented as they are introduced.
 
-Building
+**Building**
 
 Build instructions will be updated as the project evolves.
 
 The project is developed and built inside WSL using Linux development tools.
 
-Progress
+**Progress**
 Initialize the project repository
 Chapter 1 — Project setup and dependencies
 Subsequent chapters — To be updated as I progress through the book
@@ -39,6 +39,6 @@ Learning Notes
 
 This repository is primarily a hands-on learning project. Implementation decisions, debugging notes, and lessons learned will be recorded alongside the code as needed.
 
-Reference
+**Reference**
 
 Sy Brand, Building a Debugger: Write a Native x64 Debugger From Scratch, No Starch Press.
